@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zohre Mohebian
-- 👀 I’m interested in book, movie, tea and learning...
+- 👀 I’m interested in learning.
 - 🌱 I’m currently learning JavaScript...
 <!---
 zmohebian13/zmohebian13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
