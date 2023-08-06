@@ -1,6 +1,10 @@
-<h2>Hi There! I'm Zohre Mohebian 🖐</h2>
+<h2><img align='right' src='https://github.com/zmohebian13/zmohebian13/blob/main/2ac327f6-c7d1-4135-bd66-c425113234b3.gif?raw=true' />Hi There !
+ I'm Zohre Mohebian 🖐</h2>
 
-<h2>👩‍💻 About Me :</h2>
+
+ 
+ <h2>👩‍💻 About Me :</h2>
+
 
 - 👩‍🚀 Front End Developer
 - 🪐 Learning Git & Github
