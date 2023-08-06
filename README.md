@@ -7,7 +7,8 @@
 
 
 - 👩‍🚀 Front End Developer
-- 🪐 Learning Git & Github
+- 🪐 Intrested in Learning ...
+- ☄️ Learning Git & Github
 - 💫 Working on React base Projects
 
  <br />
